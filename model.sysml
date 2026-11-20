@@ -1,3 +1,4 @@
+
 package ElectricBike {
     part def Battery {
         attribute capacity :> ISQ::energy = 500 [SI::W * SI::h];
