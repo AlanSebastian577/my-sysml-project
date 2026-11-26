@@ -1,4 +1,6 @@
-package 'Homelanders-Mileage competition' {
+package
+private import ScalarValues::*;
+'Homelanders-Mileage competition' {
 
     package '01 Operational Context' {
         doc /* Baseline cut-off: 12 November 2026. Scope: Operational context, organisation, workflow and provisional stakeholder intent for Shell Eco-marathon Mileage Challenge (Prototype Battery Electric). */
